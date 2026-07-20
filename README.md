@@ -10,7 +10,7 @@ This library will feature a variety of materials consisting of ETLs, HTLs, absor
 
 IMPORTANT NOTICE!!
 
-The files in this repository are based on literature simulation presets. They should therefore NOT be interpreted as definitive or universal experimental properties of the materials.
+1) The files in this repository are based on literature simulation presets. They should therefore NOT be interpreted as definitive or universal experimental properties of the materials.
 
 Material parameters can vary greatly depending on synthesis method, crystal structure, composition, temperature, measurement method, etc.
 
