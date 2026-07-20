@@ -8,3 +8,10 @@ Each new material entry may include the following:
 
 This library will feature a variety of materials consisting of ETLs, HTLs, absorbers, etc. all of which will be classified as such.
 
+IMPORTANT NOTICE!!
+
+The files in this repository are based on literature simulation presets. They should therefore NOT be interpreted as definitive or universal experimental properties of the materials.
+
+Material parameters can vary greatly depending on synthesis method, crystal structure, composition, temperature, measurement method, etc.
+
+Users should inspect the cited source and verify that the parameters are suitable for their own simulations and work.
