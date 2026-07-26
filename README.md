@@ -1,3 +1,9 @@
+[
+
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21599356.svg)
+
+](https://doi.org/10.5281/zenodo.21599356)
+
 This repository is a personal project of mine for the collection of material parameter files for use with the SCAPS-1D solar-cell simulation program.
 
 Each new material entry may include the following:
@@ -18,5 +24,3 @@ Users should inspect the cited source and verify that the parameters are suitabl
 So, it is left up to the users to fill these parameters with their desired values. A good start for bulk and interfacial densities would be 1 x 10^15 cm^-3 and 1 x 10^14 cm^-2, respectively. 
 For the thickness, it largely depends on the layer role. For example, a larger thickness for absorber layers would yield better results. 
 Sweep the parameters, extract the data, and find the optimal values for your chosen layers which provide the best readings.
-
-https://doi.org/10.5281/zenodo.21599357
