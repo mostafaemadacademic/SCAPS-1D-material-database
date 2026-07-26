@@ -1,3 +1,5 @@
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21599356.svg)
+
 This repository is a personal project of mine for the collection of material parameter files for use with the SCAPS-1D solar-cell simulation program.
 
 Each new material entry may include the following:
