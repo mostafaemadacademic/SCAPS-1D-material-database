@@ -2,9 +2,8 @@
 
 ## Citation
 If you use this database, please cite:
-Mostafa E. Abd El-Salam. (2026). SCAPS-1D Parameter Database for 
-Photovoltaic Materials: Absorbers, Buffers, ETLs, TCOs, and HTLs. 
-Zenodo. https://doi.org/10.5281/zenodo.21599356
+Mostafa E. Abd El-salam, D. of N. and T. (2026). SCAPS-1D Parameter Database for Photovoltaic Materials: Absorbers, Buffers, ETLs, TCOs, and HTLs. [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21599357
+
 This repository is a personal project of mine for the collection of material parameter files for use with the SCAPS-1D solar-cell simulation program.
 
 Each new material entry may include the following:
