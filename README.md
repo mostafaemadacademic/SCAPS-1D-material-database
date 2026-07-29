@@ -12,6 +12,8 @@ Each new material entry may include the following:
   3) The literature source used.
   4) Notes about missing, assumed, or default parameters.
 
+So far, a total of 85 materials have been collected and indexed across the board.
+
 ## Catalogue of Curated Materials (85 Total)
 
 * Absorber Layers (26): AgBiS2 (Silver Bismuth Sulfide), BaZrS3 (Barium Zirconium Sulfide), CdTe (Cadmium Telluride), CH3NH3SnBr3 (Methylammonium Tin Bromide), CH3NH3SnI3 (Methylammonium Tin Iodide), CMTS (Copper Manganese Tin Sulfide), Cs2AgBiBr6 (Cesium Silver Bismuth Bromide), Cs2PdBr6 (Cesium Palladium Bromide), Cs2PtI6 (Cesium Platinum Iodide), Cs2TiBr6 (Cesium Titanium Bromide), Cs2TiI6 (Cesium Titanium Iodide), Cs3Bi2I9 (Cesium Bismuth Iodide), CsPbI3 (Cesium Lead Iodide), CsSnBr3 (Cesium Tin Bromide), CsSnI3 (Cesium Tin Iodide), CuBi2O4 (Copper Bismuth Oxide), CuSbS2 (Copper Antimony Sulfide), CZTSSe (Copper Zinc Tin Sulfur Selenide), Eu2NiMnO6 (Europium Nickel Manganese Oxide), FASnBr3 (Formamidinium Tin Bromide), FASnI3 (Formamidinium Tin Iodide), MAPbI3 (Methylammonium Lead Iodide), MASnI3 (Methylammonium Tin Iodide), Sb2Se3 (Antimony Selenide), SrSbI3 (Strontium Antimony Iodide), WS2 (Tungsten Disulfide)
